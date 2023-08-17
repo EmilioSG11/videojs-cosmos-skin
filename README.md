@@ -1,5 +1,6 @@
 # videojs-cosmos-skin
-New [Cosmos Skin](https://ko-fi.com/s/805051ae2a) for [Videojs](https://videojs.com/) version 8.3.0+ with dark, red and white color combination... You can change for other colors<br>
+New [Cosmos Skin](https://ko-fi.com/s/805051ae2a) for [Videojs](https://videojs.com/) version 8 with dark, red and white color combination... You can change for other colors<br>
+*Compatible with Videojs 8.3.0 and the new prerelease 8.5.2
 
 ## Videojs Skin with Bootstrap Icons
 This skin is a big change to default videojs skin because use bootstrap icons family instead the default videojs family icons (*only using few icons of videojs family).
