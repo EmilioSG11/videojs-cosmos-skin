@@ -10,8 +10,8 @@ This skin use bootstrap icons family instead the default videojs family icons (*
 ### Free demo
 Codepen [Free Demo](https://codepen.io/emiliosg11/pen/VwqKYBK) <br>
 
-### Full player/skin 
-Buy [Full Player/Skin](https://ko-fi.com/s/805051ae2a) <br>
+### Buy player/skin 
+Buy [Player/Skin](https://ko-fi.com/s/805051ae2a) <br>
 
 ### Screenshots
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/screenshot1.jpg)
