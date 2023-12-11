@@ -13,7 +13,7 @@ Codepen [Free Demo](https://codepen.io/emiliosg11/pen/VwqKYBK) <br>
 ### Buy player/skin 
 Buy [Player/Skin](https://ko-fi.com/s/805051ae2a) <br>
 CHRISTMAS DISCOUNT CODE 25% OFF ❄️☃️ <br>
-COSMOSCHRISTMAS
+DISCOUNT CODE: COSMOSCHRISTMAS
 
 ### Screenshots
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/screenshot1.jpg)
