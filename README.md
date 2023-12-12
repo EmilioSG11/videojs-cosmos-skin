@@ -9,6 +9,7 @@ This skin use bootstrap icons family instead the default videojs family icons (*
 
 ### Free demo
 Codepen [Free Demo](https://codepen.io/emiliosg11/pen/VwqKYBK) <br>
+Codepen [Free Demo with custom loading spinner](https://codepen.io/emiliosg11/pen/wvNZyOL) 
 
 ### Buy player/skin 
 Buy [Player/Skin](https://ko-fi.com/s/805051ae2a) <br>
@@ -26,5 +27,8 @@ DISCOUNT CODE: COSMOSCHRISTMAS
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/screenshot8.jpg)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/screenshot9.jpg)
 
-### Custom error image
+### Add custom error image
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/error-display.jpg)
+
+### Add custom loading spinner svg
+![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/custom-loading-spinner.jpg)
