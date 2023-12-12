@@ -5,7 +5,7 @@ New [Cosmos Skin](https://ko-fi.com/s/805051ae2a) for [Videojs](https://videojs.
 This skin use bootstrap icons family instead the default videojs family icons (*only using few icons of videojs family).
 
 ## Features
-![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/features.png)
+![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/cosmos-features.png)
 
 ### Free demo
 Codepen [Free Demo](https://codepen.io/emiliosg11/pen/VwqKYBK) <br>
