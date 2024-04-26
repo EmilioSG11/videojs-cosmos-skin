@@ -13,8 +13,8 @@ Codepen [Free Demo with custom loading spinner](https://codepen.io/emiliosg11/pe
 
 ### Buy player/skin 
 Buy [Player/Skin](https://ko-fi.com/s/805051ae2a) <br>
-🐰EASTER DISCOUNT CODE 30%🐰<br>
-<strong>EASTERCOSMOS<strong>
+DISCOUNT CODE 20%<br>
+<strong>MXCOSMOS<strong>
 
 ### Screenshots
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/screenshot1.jpg)
