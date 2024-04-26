@@ -17,7 +17,7 @@ DISCOUNT CODE 20%<br>
 <strong>MXCOSMOS<strong>
 
 ### Screenshots
-![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/screenshot1.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/screenshot1.png)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/screenshot2.jpg)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/screenshot3.jpg)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-cosmos-skin/main/images/screenshot4.jpg)
